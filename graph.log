@@ -1,0 +1,19 @@
+* 5f0e149 Agregando las estaciones del año
+*   51d02c6 Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * a17df21 Agrenado index.js al index.html
+* | 0e51c5d Agregando style.css al index.html
+* | 3b37135 Arreglar el titulo del readme
+* |   781a8dd Merge branch 'js'
+|\ \  
+| * | 888fd5c Creando index.js
+* | | 818edc9 Creando style.css
+| |/  
+|/|   
+* | 08f8342 Creando archivo index.html en html branch
+|/  
+* f0ac9c8 Quinto commit ignorando archivos .exe
+* 86990b1 Cuarto commit creando licencia
+* 37b3998 Tercer commit XD
+* bb2dd14 Agregando contenido inicial al README
+* 7995ca7 Primer commit XD

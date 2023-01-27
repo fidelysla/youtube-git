@@ -1,0 +1,85 @@
+commit 5f0e149a71db411fb7337ca9cdc805985eb562cc
+Author: Fidel Ysla <ysla2021@gmail.com>
+Date:   Thu Jan 26 16:57:43 2023 -0500
+
+    Agregando las estaciones del año
+
+commit 51d02c65931f3a6abb07ceac93e1d24a45a531a7
+Merge: 0e51c5d a17df21
+Author: Fidel Ysla <ysla2021@gmail.com>
+Date:   Thu Jan 26 16:43:40 2023 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit a17df212326d791e17bb69f000200e3f60904bfd
+Author: Fidel Ysla <ysla2021@gmail.com>
+Date:   Thu Jan 26 16:34:12 2023 -0500
+
+    Agrenado index.js al index.html
+
+commit 0e51c5d5cb2586b0bb7d6c3d2ac3d84d51b959cf
+Author: Fidel Ysla <ysla2021@gmail.com>
+Date:   Thu Jan 26 16:31:32 2023 -0500
+
+    Agregando style.css al index.html
+
+commit 3b37135ae8923f337e6ed222fb72224cc48e51b4
+Author: Fidel Ysla <ysla2021@gmail.com>
+Date:   Thu Jan 26 16:20:11 2023 -0500
+
+    Arreglar el titulo del readme
+
+commit 781a8dd67be66b114a9360fd428fdb886ff1c2d9
+Merge: 818edc9 888fd5c
+Author: Fidel Ysla <ysla2021@gmail.com>
+Date:   Thu Jan 26 16:16:11 2023 -0500
+
+    Merge branch 'js'
+
+commit 888fd5c43816d20c3d4a1736abdc12f5216841bd
+Author: Fidel Ysla <ysla2021@gmail.com>
+Date:   Thu Jan 26 12:41:02 2023 -0500
+
+    Creando index.js
+
+commit 818edc97f5b15410607c799b5c3b976ac2e009ca
+Author: Fidel Ysla <ysla2021@gmail.com>
+Date:   Thu Jan 26 12:31:06 2023 -0500
+
+    Creando style.css
+
+commit 08f83422a184fa8fed1a9c6622e9b03b8ad87e26
+Author: Fidel Ysla <ysla2021@gmail.com>
+Date:   Thu Jan 26 12:23:27 2023 -0500
+
+    Creando archivo index.html en html branch
+
+commit f0ac9c8fe6eef285d0add91705498d9c806f28bb
+Author: Fidel Ysla <ysla2021@gmail.com>
+Date:   Wed Jan 25 22:31:20 2023 -0500
+
+    Quinto commit ignorando archivos .exe
+
+commit 86990b1fa40e4f7e7f00d2f05c927b858ca625cb
+Author: fidelysla <115661283+fidelysla@users.noreply.github.com>
+Date:   Wed Jan 25 19:03:44 2023 -0500
+
+    Cuarto commit creando licencia
+
+commit 37b3998ea5f04ce4d5c42c60d8096a3adb99086c
+Author: Fidel Ysla <ysla2021@gmail.com>
+Date:   Wed Jan 25 18:54:34 2023 -0500
+
+    Tercer commit XD
+
+commit bb2dd147be6588b5cfd90c057236898e2b15112d
+Author: Fidel Ysla <ysla2021@gmail.com>
+Date:   Wed Jan 25 18:34:51 2023 -0500
+
+    Agregando contenido inicial al README
+
+commit 7995ca7c2c0d1733c540db10ed7f1a991eaab842
+Author: Fidel Ysla <ysla2021@gmail.com>
+Date:   Wed Jan 25 18:30:53 2023 -0500
+
+    Primer commit XD
